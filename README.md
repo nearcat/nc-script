@@ -1,0 +1,2 @@
+# nc-script
+javascript module
